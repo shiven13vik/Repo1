@@ -6,7 +6,7 @@
 
 # copying with custom object
 
-import
+import copy
 
 class Person:
     def __init__(self, name, age):

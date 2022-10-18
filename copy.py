@@ -4,10 +4,6 @@
 # shallow copy
 
 
-
-
-
-
 # copying with custom object
 
 import
